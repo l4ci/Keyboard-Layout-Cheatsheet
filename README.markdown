@@ -1,5 +1,5 @@
 #Keyboard Layout Cheatsheet
-###Autor: Volker Otto
+###Autor: Volker Otto (hello@volkerotto.net)
 
 
 ###Description:
@@ -8,9 +8,18 @@ Im starting to build keyboard layout cheatsheets for popular games. You can prin
 
 Still have no idea what this is? Take a look at 'bf3.jpg' as an example.
 
-![bf3 keyboard cheatsheet](https://github.com/l4ci/Keyboard-Layout-Cheatsheet/raw/master/Battlefield3/BF3.jpg "BF3 Keyboard Cheatsheet")
+![bf3 keyboard cheatsheet](https://github.com/l4ci/Keyboard-Layout-Cheatsheet/blob/master/Battlefield3/Bf3.jpg "BF3 Keyboard Cheatsheet")
+
+Well isn't that great? You see right away which keys to use for moving or combat and even more. No more looking into the control settings while in-game.
 
 You you'd like to contribute, simple download the Template.psd (or fork it). It is filled with all the layers/colors you will need. When finished - simple make a pull request and I will add them to the collection.
+
+The template looks like this:
+![template keyboard cheatsheet](https://github.com/l4ci/Keyboard-Layout-Cheatsheet/raw/master/Template.jpg "Template Keyboard Cheatsheet")
+As you can see, it is empty. Surprise!
+Just show the 'Overlay' folder in Photoshop and you will see some example texts and overlays.
+Always use the font: Helvetica Neue in 30-35px
+Always use the right colors for overlays and put them in the right folder (so others can easily find what you did).
 
 ###License:
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
