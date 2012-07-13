@@ -1,7 +1,7 @@
 #Keyboard Layout Cheatsheet
 ###Autor: Volker Otto (hello@volkerotto.net)
 
-##Content:
+###Content:
 1. [Description](#description)
 2. [Template](#template)
 3. [FAQ](#faq)
