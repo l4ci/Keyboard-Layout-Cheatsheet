@@ -1,5 +1,5 @@
 #Keyboard Layout Cheatsheet
-###Autor: Volker Otto (hello@volkerotto.net)
+by Volker Otto (hello@volkerotto.net)
 
 
 ###Content:
