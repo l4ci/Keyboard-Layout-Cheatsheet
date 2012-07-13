@@ -8,7 +8,7 @@ Im starting to build keyboard layout cheatsheets for popular games. You can prin
 
 Still have no idea what this is? Take a look at 'bf3.jpg' as an example.
 
-![bf3 keyboard cheatsheet](https://github.com/l4ci/Keyboard-Layout-Cheatsheet/raw/master/BF3.jpg "BF3 Keyboard Cheatsheet")
+![bf3 keyboard cheatsheet](https://github.com/l4ci/Keyboard-Layout-Cheatsheet/raw/master/Battlefield3/BF3.jpg "BF3 Keyboard Cheatsheet")
 
 You you'd like to contribute, simple download the Template.psd (or fork it). It is filled with all the layers/colors you will need. When finished - simple make a pull request and I will add them to the collection.
 
