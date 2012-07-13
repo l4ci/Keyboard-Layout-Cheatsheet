@@ -35,8 +35,12 @@ Always use the right colors for overlays and put them in the right folder (so ot
 ###FAQ
 
 **What keyboard is this?**
+
 It's the Steelseries 6Gv2!
 
+**What does this cost?**
+
+It's free and will always stay free. Maybe read the [license](#license)?!
 
 ###License:
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
