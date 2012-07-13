@@ -3,12 +3,15 @@
 
 
 ###Description:
-Ever needed to see all avaiable keyboard controls/shortcuts for a game?
-Im starting to build keyboard layout cheatsheets for popular games. You can print them out, modify and share them if you like. (Just not sell!)
+Ever needed to see all available keyboard controls/shortcuts for a game? Im sure you spend some hours figuring out which key does what in the control settings menu.
+
+Im starting to build keyboard layout cheatsheets for popular games. So you can print them out or just leave them open on your second monitor while you are gaming.
+
+You can also start to create your own, modify or share them if you like (just not sell, okay?!)
 
 Still have no idea what this is? Take a look at 'bf3.jpg' as an example.
 
-![bf3 keyboard cheatsheet](https://github.com/l4ci/Keyboard-Layout-Cheatsheet/blob/master/Battlefield3/Bf3.jpg "BF3 Keyboard Cheatsheet")
+![bf3 keyboard cheatsheet](https://github.com/l4ci/Keyboard-Layout-Cheatsheet/raw/master/Battlefield3/Bf3.jpg "BF3 Keyboard Cheatsheet")
 
 Well isn't that great? You see right away which keys to use for moving or combat and even more. No more looking into the control settings while in-game.
 
